@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name = 'MWPhotoBrowser'
+  s.name = 'yun_MWPhotoBrowser'
   s.version = '2.1.2-1.0'
   s.license = 'MIT'
   s.summary = 'This is an unoffical repo that forked from MWPhotoBrowser. Just update the dependency library version.'
